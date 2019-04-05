@@ -1,0 +1,21 @@
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text\pokemon text\bin\Debug\pokemon text.exe.config
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text\pokemon text\bin\Debug\pokemon text.exe
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text\pokemon text\bin\Debug\pokemon text.pdb
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text\pokemon text\obj\Debug\pokemon text.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text\pokemon text\obj\Debug\pokemon text.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text\pokemon text\obj\Debug\pokemon text.exe
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text\pokemon text\obj\Debug\pokemon text.pdb
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text v1\pokemon text\bin\Debug\pokemon text.exe.config
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text v1\pokemon text\bin\Debug\pokemon text.exe
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text v1\pokemon text\bin\Debug\pokemon text.pdb
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text v1\pokemon text\obj\Debug\pokemon text.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text v1\pokemon text\obj\Debug\pokemon text.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text v1\pokemon text\obj\Debug\pokemon text.exe
+C:\Users\KEMURI\Desktop\assignment\ista 220\week\pokemon text v1\pokemon text\obj\Debug\pokemon text.pdb
+C:\Users\KEMURI\Desktop\the hub\pokemon text\pokemon text\bin\Debug\pokemon text.exe.config
+C:\Users\KEMURI\Desktop\the hub\pokemon text\pokemon text\bin\Debug\pokemon text.exe
+C:\Users\KEMURI\Desktop\the hub\pokemon text\pokemon text\bin\Debug\pokemon text.pdb
+C:\Users\KEMURI\Desktop\the hub\pokemon text\pokemon text\obj\Debug\pokemon text.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\the hub\pokemon text\pokemon text\obj\Debug\pokemon text.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\the hub\pokemon text\pokemon text\obj\Debug\pokemon text.exe
+C:\Users\KEMURI\Desktop\the hub\pokemon text\pokemon text\obj\Debug\pokemon text.pdb
